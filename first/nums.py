@@ -2,7 +2,8 @@ def plus(a, b):
     return a + b
 
 
-text = 'new text'
+def multi(a, b):
+    return a*b
 
 
 def minus(a, b):
